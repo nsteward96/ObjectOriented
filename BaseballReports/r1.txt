@@ -1,1482 +1,1482 @@
-Fernando Abad*0
-Fernando Abad*0
-Jose Abreu25
-A.J. Achter0
-Dustin Ackley*0
-Cristhian Adames#2
-Austin Adams0
-Matt Adams*16
-Tim Adleman0
-Ehire Adrianza#2
-Jesus Aguilar0
-Nick Ahmed4
-Andrew Albers0
-Matt Albers*0
-Hanser Alberto0
-Al Alburquerque0
-Arismendy Alcantara#0
-Raul Alcantara0
-Scott Alexander*0
-Jorge Alfaro0
-Cody Allen0
-Abraham Almonte#1
-Albert Almora3
-Yonder Alonso*7
-Dan Altavilla0
-Aaron Altherr4
-Jose Altuve24
-Dariel Alvarez0
-Dario Alvarez*0
-Dario Alvarez*0
-Jose Alvarez*0
-Pedro Alvarez*22
-Alexi Amarista*0
-Brett Anderson*0
-Chase Anderson0
-Cody Anderson0
-Tim Anderson9
-Tyler Anderson*1
-Robert Andino0
-Matt Andriese0
-Elvis Andrus8
-Dustin Antolin0
-Nori Aoki*4
-Jayson Aquino*0
-Elvis Araujo*0
-Chris Archer0
-Orlando Arcia4
-Oswaldo Arcia*4
-Oswaldo Arcia*2
-Oswaldo Arcia*0
-Oswaldo Arcia*2
-Nolan Arenado41
-Shawn Armstrong0
-Jonathan Aro0
-Jake Arrieta2
-Cody Asche*4
-Alec Asher0
-Carlos Asuaje*0
-Tyler Austin5
-Alex Avila*7
-Luis Avilan*0
-Mike Aviles1
-John Axford0
-Erick Aybar#2
-Erick Aybar#1
-Javier Baez14
-Pedro Baez0
-Andrew Bailey0
-Andrew Bailey0
-Homer Bailey0
-Jett Bandy8
-Johnny Barbato0
-Austin Barnes0
-Brandon Barnes0
-Danny Barnes*0
-Jacob Barnes0
-Matt Barnes0
-Tony Barnette0
-Darwin Barney4
-Tucker Barnhart#7
-Kyle Barraclough0
-Jake Barrett0
-Chris Bassitt0
-Antonio Bastardo0
-Antonio Bastardo0
-Trevor Bauer0
-Buddy Baumann*0
-Jose Bautista22
-Chris Beck0
-Gordon Beckham5
-Gordon Beckham0
-Tim Beckham5
-Cam Bedrosian0
-Matt Belisle0
-Josh Bell#3
-Brandon Belt*17
-Carlos Beltran#22
-Carlos Beltran#7
-Adrian Beltre32
-Andrew Benintendi*2
-Joaquin Benoit0
-Joaquin Benoit0
-James Beresford*0
-Christian Bergman0
-Jose Berrios0
-Dellin Betances0
-Christian Bethancourt6
-Chad Bettis0
-Mookie Betts31
-Joe Biagini0
-Ty Blach0
-Charlie Blackmon*29
-Aaron Blair0
-Andres Blanco#4
-Gregor Blanco*1
-Joe Blanton0
-Jabari Blash3
-Michael Blazek0
-Richard Bleier*0
-Jerry Blevins*0
-Xander Bogaerts21
-Mike Bolsinger0
-Emilio Bonifacio#0
-Julio Borbon*0
-Wilfredo Boscan0
-Buddy Boshers*0
-Justin Bour*15
-Peter Bourjos5
-Michael Bourn*3
-Michael Bourn*2
-Matthew Bowman0
-Brad Boxberger0
-Matt Boyd*0
-Blaine Boyer0
-Brad Brach0
-Silvino Bracho0
-Archie Bradley0
-Jackie Bradley*26
-Jed Bradley*0
-Michael Brantley*0
-Steven Brault*0
-Ryan Braun30
-Alex Bregman8
-Bryce Brentz1
-Craig Breslow*0
-Austin Brice0
-Parker Bridwell0
-Reid Brignac*0
-Socrates Brito*4
-Zach Britton*0
-Mike Broadway0
-Trevor Brown5
-Jonathan Broxton0
-Keon Broxton9
-Jay Bruce*25
-Jay Bruce*8
-Kris Bryant39
-Jake Buchanan0
-Clay Buchholz*0
-Ryan Buchter*0
-Madison Bumgarner3
-Dylan Bundy#0
-Enrique Burgos0
-Sean Burnett*0
-Andy Burns0
-Billy Burns#0
-Billy Burns#0
-Emmanuel Burriss#0
-Matt Buschmann0
-Matt Bush0
-Nick Buss*1
-Drew Butera4
-Billy Butler4
-Billy Butler1
-Eddie Butler0
-Byron Buxton10
-Marlon Byrd5
-Asdrubal Cabrera#23
-Mauricio Cabrera0
-Melky Cabrera#14
-Miguel Cabrera38
-Ramon Cabrera#3
-Trevor Cahill0
-Lorenzo Cain9
-Matt Cain1
-Kole Calhoun*18
-Arquimedes Caminero0
-Arquimedes Caminero0
-Eric Campbell1
-Leonel Campos0
-Vicente Campos0
-Jeimer Candelario#0
-Mark Canha3
-Robinson Cano*39
-Chris Capuano*0
-Matt Carasiti0
-Stephen Cardullo2
-Matt Carpenter*21
-Carlos Carrasco0
-Ezequiel Carrera*6
-Scott Carroll0
-Chris Carter41
-Curt Casali8
-Andrew Cashner0
-Andrew Cashner0
-Santiago Casilla0
-Nick Castellanos18
-Rusney Castillo0
-Welington Castillo14
-Daniel Castro0
-Jason Castro*11
-Miguel Castro0
-Starlin Castro21
-Gavin Cecchini0
-Brett Cecil0
-Darrell Ceciliani*0
-Xavier Cedeno*0
-Juan Centeno*3
-Francisco Cervelli1
-Hunter Cervenka*0
-Hunter Cervenka*0
-Yoenis Cespedes31
-Luis Cessa0
-Jhoulys Chacin0
-Jhoulys Chacin0
-Andrew Chafin0
-Joba Chamberlain0
-Aroldis Chapman*0
-Aroldis Chapman*0
-Kevin Chapman*0
-J.T. Chargois#0
-Tyler Chatwood0
-Jesse Chavez0
-Jesse Chavez0
-Wei-Yin Chen*0
-Robinson Chirinos9
-Lonnie Chisenhall*8
-Ji-Man Choi*5
-Shin-Soo Choo*7
-Tony Cingrani*0
-Steve Cishek0
-Alex Claudio*0
-Paul Clemens0
-Paul Clemens0
-Steve Clevenger*1
-Mike Clevinger0
-Tyler Clippard0
-Tyler Clippard0
-Jason Coats1
-Alex Cobb0
-Chris Coghlan*5
-Chris Coghlan*1
-Phil Coke*0
-Phil Coke*0
-Chris Colabello0
-A.J. Cole0
-Gerrit Cole1
-Louis Coleman0
-Tyler Collins*4
-Josh Collmenter0
-Josh Collmenter0
-Alex Colome0
-Bartolo Colon1
-Christian Colon1
-Joseph Colon0
-Gerardo Concepcion*0
-Michael Conforto*12
-Hank Conger#3
-Adam Conley*0
-Willson Contreras12
-Patrick Corbin*0
-Carlos Correa20
-Jarred Cosart0
-Jarred Cosart0
-Caleb Cotham0
-Jharel Cotton0
-Daniel Coulombe*0
-Kaleb Cowart#1
-Collin Cowgill0
-Zack Cozart16
-Tyler Cravy1
-Brandon Crawford*12
-Carl Crawford*0
-Coco Crisp#11
-Coco Crisp#2
-Kyle Crockett*0
-C.J. Cron16
-Nelson Cruz43
-Tony Cruz0
-Johnny Cueto0
-William Cuevas0
-Charlie Culberson1
-Brandon Cunniff0
-Todd Cunningham#0
-Zac Curtis*0
-Cheslor Cuthbert12
-Chase d'Arnaud1
-Travis d'Arnaud4
-David Dahl*7
-Tyler Danish0
-John Danks*0
-Yu Darvish1
-Matt Davidson0
-Zach Davies0
-Chris Davis*38
-Ike Davis*0
-Khris Davis42
-Rajai Davis12
-Wade Davis0
-Grant Dayton*0
-Alejandro De Aza*6
-Ivan De Jesus1
-Joel De La Cruz#0
-Jorge De La Rosa*0
-Rubby De La Rosa0
-Jose De Leon0
-Abel De Los Santos0
-Pat Dean*0
-Jaff Decker*0
-Jacob deGrom*0
-Steve Delabar0
-Randall Delgado0
-Matt den Dekker*1
-Matt Dermody0
-Daniel Descalso*8
-Anthony DeSclafani0
-Delino DeShields4
-Ian Desmond22
-Odrisamer Despaigne0
-Odrisamer Despaigne0
-Ross Detwiler0
-Ross Detwiler0
-Chris Devenski0
-Scott Diamond*0
-Aledmys Diaz17
-Dayan Diaz0
-Edwin Diaz0
-Elias Diaz0
-Jumbo Diaz0
-Alex Dickerson*10
-Corey Dickerson*24
-R.A. Dickey0
-Jake Diekman*0
-Derek Dietrich*7
-Wilmer Difo#1
-Jose Dominguez0
-Matt Dominguez0
-Josh Donaldson37
-Sean Doolittle*0
-Brian Dozier42
-Hunter Dozier0
-Kyle Drabek0
-Oliver Drake0
-Stephen Drew*8
-Brandon Drury16
-Lucas Duda*7
-Brian Duensing*0
-Tyler Duffey0
-Danny Duffy*0
-Matt Duffy4
-Matt Duffy0
-Matt Duffy1
-Zach Duke*0
-Zach Duke*0
-Ryan Dull0
-Mike Dunn*0
-Adam Duvall33
-Jarrod Dyson*1
-Sam Dyson0
-Adam Eaton*14
-Josh Edgin0
-Carl Edwards0
-Zach Eflin0
-Cody Ege*0
-Cody Ege*0
-Brett Eibner3
-Brett Eibner3
-Jerad Eickhoff0
-Roenis Elias*0
-Brian Ellington0
-A.J. Ellis1
-A.J. Ellis1
-Jacoby Ellsbury*9
-Jake Elmore0
-Edwin Encarnacion42
-Nathan Eovaldi0
-Robbie Erlin0
-Jake Esch0
-Alcides Escobar7
-Eduardo Escobar#6
-Edwin Escobar*0
-Yunel Escobar5
-Danny Espinosa#24
-Carlos Estevez0
-Marco Estrada0
-Andre Ethier*1
-Dana Eveland*0
-Jeurys Familia0
-Buck Farmer*0
-Danny Farquhar0
-Andrew Faulkner0
-Taylor Featherston0
-Tim Federowicz0
-Scott Feldman*0
-Scott Feldman*0
-Michael Feliz0
-Neftali Feliz0
-Jose Fernandez0
-Prince Fielder*8
-Josh Fields0
-Josh Fields0
-Casey Fien0
-Casey Fien0
-Mike Fiers0
-Cole Figueroa*0
-Brandon Finnegan*0
-Doug Fister*0
-Ryan Flaherty*3
-Yohan Flande*0
-Kendry Flores0
-Ramon Flores*2
-Wilmer Flores16
-Pedro Florimon#0
-Dylan Floro*0
-Tyler Flowers8
-Gavin Floyd0
-Brian Flynn*0
-Mike Foltynewicz0
-Logan Forsythe20
-Dexter Fowler#13
-Maikel Franco25
-Jeff Francoeur7
-Jeff Francoeur0
-Nick Franklin#6
-Adam Frazier*2
-Todd Frazier40
-Freddie Freeman*34
-Mike Freeman*0
-Mike Freeman*0
-Sam Freeman0
-David Freese13
-Carlos Frias0
-Christian Friedrich0
-Eric Fryer0
-Eric Fryer0
-Reymond Fuentes*0
-Carson Fulmer0
-Michael Fulmer0
-Yovani Gallardo0
-Joey Gallo*1
-Freddy Galvis#20
-Eddie Gamboa0
-Ben Gamel*0
-Ben Gamel*1
-John Gant0
-Adonis Garcia14
-Avisail Garcia12
-Greg Garcia*3
-Jaime Garcia*0
-Leury Garcia#1
-Luis Garcia0
-Yimi Garcia0
-Brett Gardner*7
-Dustin Garneau1
-Perci Garner0
-Ryan Garton0
-Matt Garza0
-Evan Gattis32
-Kevin Gausman*0
-Cory Gearrin0
-Dillon Gee0
-Steve Geltz0
-Scooter Gennett*14
-Craig Gentry0
-Gonzalez Germen0
-Johnny Giavotella6
-Kyle Gibson0
-Ken Giles0
-Conor Gillaspie*6
-Cole Gillespie0
-Sean Gilmartin*0
-Chris Gimenez4
-Lucas Giolito0
-Chad Girodo*0
-Mychal Givens0
-Tyler Glasnow*0
-Koda Glover0
-Zack Godley0
-Erik Goeddel0
-Tyler Goeddel4
-David Goforth0
-Ryan Goins*3
-Paul Goldschmidt24
-Yan Gomes9
-Carlos Gomez5
-Carlos Gomez8
-Jeanmar Gomez0
-Adrian Gonzalez*18
-Carlos Gonzalez*25
-Chi Chi Gonzalez0
-Erik Gonzalez0
-Gio Gonzalez0
-Marwin Gonzalez#13
-Miguel Gonzalez0
-Severino Gonzalez0
-Brian Goodwin*0
-Nick Goody0
-Alex Gordon*17
-Dee Gordon*1
-Terrance Gore0
-Tom Gorzelanny0
-Anthony Gose*2
-Tuffy Gosewisch3
-Philip Gosselin2
-Trevor Gott0
-Matt Grace*0
-J.R. Graham0
-Yasmani Grandal#27
-Curtis Granderson*30
-Juan Graterol0
-Kendall Graveman0
-Jon Gray0
-Sonny Gray0
-Chad Green*0
-Grant Green1
-Shane Greene0
-Luke Gregerson*0
-Didi Gregorius*20
-Zack Greinke0
-Randal Grichuk24
-A.J. Griffin0
-Jason Grilli0
-Jason Grilli0
-Justin Grimm0
-Robbie Grossman#11
-Robert Gsellman0
-Mayckol Guaipe0
-Deolis Guerra0
-Javy Guerra0
-Junior Guerra0
-Tayron Guerrero0
-Jason Gurka*0
-Yulieski Gurriel3
-Jandel Gustave0
-Franklin Gutierrez14
-Brandon Guyer7
-Brandon Guyer2
-Jedd Gyorko30
-Jesse Hahn0
-David Hale0
-Cody Hall0
-Cole Hamels*0
-Billy Hamilton#3
-Jason Hammel0
-Brad Hand*0
-Ryan Hanigan1
-Mitch Haniger5
-Alen Hanson#0
-J.A. Happ*0
-Blaine Hardy*0
-J.J. Hardy9
-Bryce Harper*24
-Lucas Harrell#0
-Lucas Harrell#0
-Will Harris0
-Josh Harrison4
-Donnie Hart*0
-Matt Harvey0
-Chris Hatcher#0
-Steve Hathaway*0
-Drew Hayes0
-Jeremy Hazelbaker*12
-Chase Headley#14
-Ryon Healy13
-Andrew Heaney*0
-Adeiny Hechavarria3
-Austin Hedges0
-Chris Heisey9
-Ben Heller0
-Jeremy Hellickson0
-Heath Hembree0
-Jim Henderson*0
-Kyle Hendricks0
-Liam Hendriks0
-Guillermo Heredia1
-Cesar Hernandez#6
-David Hernandez0
-Enrique Hernandez7
-Felix Hernandez0
-Gorkys Hernandez2
-Marco Hernandez*1
-Oscar Hernandez1
-Roberto Hernandez0
-Teoscar Hernandez4
-Kelvin Herrera0
-Odubel Herrera*15
-Chris Herrmann*6
-Frank Herrmann*0
-Keith Hessler*0
-Keith Hessler*0
-Chris Heston0
-Jason Heyward*7
-Aaron Hicks#8
-John Hicks0
-Aaron Hill8
-Aaron Hill2
-Rich Hill*0
-Rich Hill*0
-Dalier Hinojosa0
-Luke Hochevar0
-Jeff Hoffman0
-Bryan Holaday2
-Bryan Holaday0
-Jonathan Holder0
-Derek Holland#0
-Matt Holliday20
-Brock Holt*7
-Tyler Holt0
-Destin Hood1
-J.J. Hoover0
-Eric Hosmer*25
-T.J. House0
-Ryan Howard*25
-J.P. Howell*0
-Jared Hoying*0
-James Hoyt0
-Daniel Hudson0
-David Huff#0
-Jared Hughes0
-Phil Hughes0
-Nick Hundley10
-Cedric Hunter*1
-Tommy Hunter0
-Tommy Hunter0
-Jason Hursh0
-Drew Hutchison*0
-Drew Hutchison*0
-Chris Iannetta7
-Jose Iglesias4
-Raisel Iglesias0
-Ender Inciarte*3
-Omar Infante0
-Hernan Iribarren*0
-Hisashi Iwakuma0
-Austin Jackson0
-Edwin Jackson0
-Edwin Jackson0
-Luke Jackson0
-Paul Janish0
-Travis Jankowski*2
-Kenley Jansen#0
-John Jaso*8
-Jon Jay*2
-Jeremy Jeffress0
-Jeremy Jeffress0
-Tyrell Jenkins0
-Dan Jennings*0
-Desmond Jennings7
-Kyle Jensen2
-Kevin Jepsen0
-Kevin Jepsen0
-Ubaldo Jimenez0
-Chris Johnson5
-Erik Johnson0
-Erik Johnson0
-Jim Johnson0
-Kelly Johnson*1
-Kelly Johnson*9
-Micah Johnson*0
-Steve Johnson0
-Adam Jones29
-JaCoby Jones0
-Nate Jones0
-Caleb Joseph0
-Tommy Joseph21
-Matthew Joyce*13
-Aaron Judge4
-Taylor Jungmann0
-Tommy Kahnle0
-Ryan Kalish*0
-Jung Ho Kang21
-Nate Karns0
-Munenori Kawasaki*0
-Scott Kazmir*0
-Keone Kela0
-Shawn Kelley0
-Carson Kelly0
-Casey Kelly0
-Don Kelly*0
-Joe Kelly0
-Ty Kelly#1
-Matt Kemp23
-Matt Kemp12
-Tony Kemp*1
-Howie Kendrick8
-Ian Kennedy0
-Logan Kensing0
-Max Kepler*17
-Clayton Kershaw*0
-Dallas Keuchel*0
-Spencer Kieboom0
-Dean Kiekhefer*0
-Kevin Kiermaier*12
-Hyun Soo Kim*6
-Craig Kimbrel0
-Ian Kinsler28
-Brandon Kintzler0
-Jason Kipnis*23
-Michael Kirkman*0
-Michael Kirkman*0
-Patrick Kivlehan1
-Patrick Kivlehan0
-Phil Klein0
-Phil Klein0
-Corey Kluber0
-Corey Knebel0
-Matt Koch*0
-Tom Koehler0
-George Kontos0
-Erik Kratz0
-Erik Kratz1
-Ian Krol*0
-Chad Kuhl0
-Tommy La Stella*2
-John Lackey0
-Tyler Ladendorf0
-Juan Lagares3
-Junior Lake1
-Blake Lalli*0
-Ryan LaMarre0
-Jake Lamb*29
-John Lamb*0
-Andrew Lambo*0
-Mat Latos0
-Mat Latos1
-Derek Law0
-Brett Lawrie12
-Tommy Layne*0
-Tommy Layne*0
-Mike Leake0
-Wade LeBlanc*0
-Wade LeBlanc*0
-Jose Leclerc0
-Dae-ho Lee14
-DJ LeMahieu11
-Arnold Leon0
-Sandy Leon#7
-Dominic Leone0
-Jon Lester*0
-Colby Lewis0
-Adam Liberatore*0
-Pat Light0
-Pat Light0
-Tim Lincecum*0
-Adam Lind*20
-Francisco Lindor#15
-Francisco Liriano*1
-Francisco Liriano*0
-Jose Lobaton#3
-Kyle Lobstein*0
-Jeff Locke*0
-Adam Loewen*0
-Boone Logan0
-Kyle Lohse0
-James Loney*9
-Evan Longoria36
-Javier Lopez*0
-Rafael Lopez*0
-Reynaldo Lopez0
-Michael Lorenzen1
-David Lough*0
-Aaron Loup*0
-Mark Lowe*0
-Jed Lowrie#2
-Jonathan Lucroy13
-Jonathan Lucroy11
-Cory Luebke0
-Seth Lugo0
-Jordan Lyles0
-Tyler Lyons*0
-Dixon Machado0
-Manny Machado37
-Ryan Madson*0
-Kenta Maeda1
-Matt Magill0
-Damien Magnifico0
-Greg Mahle*0
-Mikie Mahtook3
-Luke Maile3
-Martin Maldonado8
-Sean Manaea*0
-Trey Mancini3
-Seth Maness0
-Jeff Manship0
-Joe Mantiply0
-Manuel Margot0
-Jhan Marinez0
-Jhan Marinez0
-Michael Mariot0
-Jake Marisnick5
-Nick Markakis*13
-Justin Marks*0
-Matt Marksberry*0
-German Marquez0
-Deven Marrero0
-Evan Marshall0
-Jefry Marte15
-Kelvin Marte0
-Ketel Marte#1
-Starling Marte9
-Cody Martin0
-Leonys Martin*15
-Rafael Martin0
-Russell Martin20
-Carlos Martinez0
-J.D. Martinez22
-Jose Martinez0
-Michael Martinez#0
-Michael Martinez#1
-Nick Martinez*0
-Victor Martinez#27
-Darin Mastroianni0
-Jeff Mathis2
-Brian Matusz*0
-Brian Matusz*0
-Steven Matz0
-Joe Mauer*11
-Brandon Maurer0
-Bruce Maxwell*1
-Trevor May0
-Cameron Maybin4
-Mike Mayers0
-Nomar Mazara*20
-Vin Mazzaro0
-Zach McAllister0
-Matt McBride0
-Brian McCann*20
-James McCann12
-Brandon McCarthy0
-Kevin McCarthy0
-Lance McCullers*0
-Andrew McCutchen24
-T.J. McFarland*0
-Jake McGee*0
-Casey McGehee0
-Dustin McGowan0
-Collin McHugh0
-Michael McKenry0
-Kris Medlen#0
-Adalberto Mejia0
-Mark Melancon0
-Mark Melancon0
-Tim Melville0
-Yohander Mendez*0
-Daniel Mengden0
-Jordy Mercer11
-Whit Merrifield2
-Ryan Merritt*0
-Devin Mesoraco0
-Alex Meyer0
-Alex Meyer0
-Will Middlebrooks0
-Wade Miley*0
-Wade Miley*0
-Andrew Miller*0
-Andrew Miller*0
-Brad Miller*30
-Justin Miller0
-Mike Miller0
-Shelby Miller0
-Alec Mills0
-Tommy Milone*0
-Juan Minaya0
-Ariel Miranda*0
-Ariel Miranda*0
-Bryan Mitchell*0
-Yadier Molina8
-Dustin Molleken*0
-Yoan Moncada#0
-Raul Mondesi#2
-Miguel Montero*8
-Rafael Montero0
-Mike Montgomery*0
-Mike Montgomery*0
-Adam Moore0
-Matt Moore*0
-Matt Moore*0
-Franklin Morales*0
-Kendrys Morales#30
-Colin Moran*0
-Mitch Moreland*22
-Adam Morgan*0
-Shawn Morimando*0
-Mike Morin0
-Justin Morneau*6
-Max Moroff#0
-A.J. Morris0
-Bryan Morris*0
-Logan Morrison*14
-Brandon Morrow0
-Mike Morse0
-Charlie Morton0
-Jon Moscot0
-Brandon Moss*28
-Jason Motte0
-Taylor Motter2
-Mike Moustakas*7
-Steven Moya*5
-Peter Moylan0
-Conor Mullee0
-Max Muncy*2
-Daniel Murphy*25
-John Ryan Murphy1
-Tom Murphy5
-Colton Murray0
-Joseph Musgrove0
-Wil Myers28
-Mike Napoli34
-Tyler Naquin*14
-Omar Narvaez*1
-Chris Narveson*0
-Joe Nathan0
-Joe Nathan0
-Daniel Nava#1
-Daniel Nava#0
-Dioner Navarro#6
-Dioner Navarro#0
-Zach Neal0
-Jimmy Nelson0
-Hector Neris0
-Pat Neshek#0
-Juan Nicasio0
-Brett Nicholas*2
-Justin Nicolino*0
-Jon Niese*0
-Jon Niese*0
-Kirk Nieuwenhuis*13
-Brandon Nimmo*1
-Aaron Nola0
-Ricky Nolasco0
-Ricky Nolasco0
-Nick Noonan*0
-Bud Norris0
-Bud Norris0
-Daniel Norris*0
-Derek Norris14
-Ivan Nova0
-Ivan Nova0
-Eduardo Nunez12
-Eduardo Nunez4
-Renato Nunez0
-Vidal Nuno*0
-Peter O'Brien5
-Darren O'Day0
-Eric O'Flaherty*0
-Shawn O'Malley#2
-Ryan O'Rourke0
-Sean O'Sullivan0
-Scott Oberg0
-Brett Oberholtzer*0
-Brett Oberholtzer*0
-Rougned Odor*33
-Jake Odorizzi0
-Alexi Ogando0
-Nefi Ogando0
-Seung-hwan Oh0
-Ross Ohlendorf0
-Steven Okert*0
-Hector Olivera0
-Matt Olson*0
-Tyler Olson0
-Logan Ondrusek0
-Paulo Orlando5
-Rafael Ortega*1
-David Ortiz*38
-Josh Osich*0
-Roberto Osuna0
-Dan Otero0
-Adam Ottavino#0
-Dillon Overton*0
-Henry Owens*0
-Chris Owings5
-Marcell Ozuna23
-Jordan Pacheco0
-Angel Pagan#12
-Joe Panik*10
-Jonathan Papelbon0
-Jimmy Paredes#1
-Jimmy Paredes#4
-Byung Ho Park12
-Blake Parker0
-Blake Parker0
-Jarrett Parker*5
-Chris Parmelee*2
-Bobby Parnell0
-Gerardo Parra*7
-Curtis Partch0
-Jordan Patterson*0
-Spencer Patton0
-David Paulino0
-Ben Paulsen*1
-James Paxton*0
-James Pazos0
-Brad Peacock0
-Steve Pearce10
-Steve Pearce3
-Jake Peavy0
-Joc Pederson*25
-Dustin Pedroia15
-Mike Pelfrey0
-Ariel Pena0
-Brayan Pena#0
-Felix Pena0
-Francisco Pena1
-Ramiro Pena#1
-Hunter Pence13
-Cliff Pennington#3
-David Peralta*4
-Jhonny Peralta8
-Joel Peralta0
-Joel Peralta0
-Wandy Peralta*0
-Wily Peralta1
-Jose Peraza3
-Luis Perdomo0
-Carlos Perez5
-Hernan Perez13
-Martin Perez*0
-Oliver Perez*0
-Roberto Perez3
-Salvador Perez22
-Williams Perez0
-Yefri Perez#0
-Glen Perkins*0
-Jace Peterson*7
-Gregorio Petit2
-Yusmeiro Petit0
-Jake Petricka0
-Tommy Pham9
-Josh Phegley1
-David Phelps0
-Brandon Phillips11
-Zach Phillips*0
-A.J. Pierzynski*2
-Kevin Pillar7
-Manny Pina2
-Branden Pinder0
-Chad Pinder1
-Michael Pineda0
-Josmil Pinto0
-Jose Pirela0
-Stephen Piscotty22
-Kevin Plawecki1
-Trevor Plouffe12
-Adam Plutko0
-Gregory Polanco*22
-Jorge Polanco#4
-A.J. Pollock2
-Drew Pomeranz1
-Drew Pomeranz0
-Dalton Pompey#0
-Rick Porcello0
-Buster Posey14
-Brooks Pounders0
-Martin Prado8
-Alex Presley*3
-Alex Presley*0
-Ryan Pressly0
-David Price*0
-Jurickson Profar#5
-Yasiel Puig11
-Albert Pujols31
-Matt Purke*0
-Zach Putnam0
-Kevin Quackenbush0
-Chad Qualls0
-Juniel Querecuto#0
-Roman Quinn#0
-Jose Quintana0
-Ryan Raburn9
-Alexei Ramirez5
-Alexei Ramirez1
-Erasmo Ramirez0
-Hanley Ramirez30
-J.C. Ramirez0
-J.C. Ramirez0
-Jose Ramirez0
-Jose Ramirez#11
-Neil Ramirez0
-Neil Ramirez0
-Neil Ramirez0
-Noe Ramirez0
-A.J. Ramos0
-Cesar Ramos*0
-Edubray Ramos0
-Wilson Ramos22
-Anthony Ranaudo0
-Anthony Ranaudo1
-Colby Rasmus*15
-Cory Rasmus0
-Josh Ravin0
-Robbie Ray*1
-Colin Rea0
-Colin Rea0
-J.T. Realmuto11
-Anthony Recker2
-Josh Reddick*8
-Josh Reddick*2
-A.J. Reed*3
-Addison Reed*0
-Cody Reed*0
-Michael Reed0
-Rob Refsnyder0
-Nolan Reimold6
-Tony Renda0
-Anthony Rendon20
-Hunter Renfroe4
-Ben Revere*2
-Alex Reyes0
-Jo-Jo Reyes*0
-Jose Reyes#8
-Mark Reynolds14
-Matt Reynolds*0
-Matt Reynolds3
-Clayton Richard*0
-Clayton Richard*0
-Garrett Richards0
-Joey Rickard5
-Rene Rivera6
-T.J. Rivera3
-Yadiel Rivera0
-Felipe Rivero*0
-Felipe Rivero*0
-Anthony Rizzo*32
-Donn Roach0
-Tanner Roark0
-Dan Robertson0
-David Robertson0
-Clint Robinson*5
-Shane Robinson1
-Hansel Robles0
-Brady Rodgers0
-Fernando Rodney0
-Fernando Rodney0
-Carlos Rodon*0
-Alex Rodriguez9
-Eduardo Rodriguez*0
-Fernando Rodriguez0
-Francisco Rodriguez0
-Joely Rodriguez*0
-Sean Rodriguez18
-Chaz Roe0
-Chaz Roe0
-Jason Rogers0
-Taylor Rogers*0
-Miguel Rojas1
-David Rollins*0
-Jimmy Rollins#2
-Enny Romero*0
-Stefen Romero0
-Andrew Romine#2
-Austin Romine4
-Sergio Romo0
-Bruce Rondon0
-Hector Rondon0
-Jorge Rondon0
-Jose Rondon0
-Adam Rosales13
-Alberto Rosario0
-Eddie Rosario*10
-Trevor Rosenthal0
-David Ross10
-Joe Ross0
-Robbie Ross*0
-Tyson Ross0
-Michael Roth*0
-Ben Rowen0
-Ryan Rua8
-Darin Ruf3
-Justin Ruggiano0
-Justin Ruggiano2
-Carlos Ruiz3
-Carlos Ruiz0
-Rio Ruiz*0
-Cameron Rupp16
-Chris Rusin*0
-Addison Russell21
-James Russell*0
-Josh Rutledge0
-Brendan Ryan0
-Kyle Ryan*0
-Hyun-Jin Ryu0
-Marc Rzepczynski*0
-Marc Rzepczynski*0
-CC Sabathia*0
-Tyler Saladino8
-Fernando Salas0
-Fernando Salas0
-Danny Salazar*0
-Chris Sale*0
-Jarrod Saltalamacchia#12
-Jeff Samardzija0
-Adrian Sampson0
-Keyvius Sampson0
-Aaron Sanchez0
-Anibal Sanchez0
-Carlos Sanchez#4
-Gary Sanchez20
-Hector Sanchez#0
-Hector Sanchez#3
-Pablo Sandoval#0
-Jerry Sands1
-Miguel Sano25
-Carlos Santana#34
-Danny Santana#2
-Domingo Santana11
-Ervin Santana0
-Hector Santiago0
-Hector Santiago0
-Luis Sardinas#2
-Luis Sardinas#2
-Michael Saunders*24
-Warwick Saupold0
-Rob Scahill*0
-Rob Scahill*0
-Logan Schafer*0
-Scott Schebler*9
-Tanner Scheppers0
-Max Scherzer0
-Ryan Schimpf*20
-Jonathan Schoop25
-A.J. Schugel0
-Bo Schultz0
-Patrick Schuster0
-Patrick Schuster0
-Kyle Schwarber*0
-Robby Scott#0
-Evan Scribner0
-Xavier Scruggs1
-Corey Seager*26
-Kyle Seager*30
-Rob Segedin2
-Jean Segura20
-Steve Selsky2
-Marcus Semien27
-Luis Severino0
-Pedro Severino2
-Richie Shaffer1
-Bryan Shaw#0
-Travis Shaw*16
-James Shields0
-James Shields0
-Braden Shipley0
-Matt Shoemaker0
-Chasen Shreve*0
-J.B. Shuck*4
-Kevin Siegrist*0
-Andrelton Simmons4
-Shae Simmons0
-Alfredo Simon0
-Tony Sipp*0
-Tyler Skaggs*0
-Blake Smith*0
-Carson Smith0
-Chris Smith0
-Jake Smith0
-Joe Smith0
-Joe Smith0
-Josh Smith0
-Kevan Smith0
-Mallex Smith*3
-Seth Smith*16
-Will Smith0
-Will Smith0
-Justin Smoak#14
-Josh Smoker*0
-Jake Smolinski7
-Drew Smyly*0
-Blake Snell*0
-Brandon Snyder4
-Miguel Socolovich0
-Donovan Solano1
-Yangervis Solarte#15
-Jorge Soler12
-Sammy Solis0
-Layne Somsen0
-Joakim Soria0
-Geovany Soto4
-Steven Souza17
-Denard Span*11
-Cory Spangenberg*1
-George Springer29
-Jacob Stallings0
-Giancarlo Stanton27
-Max Stassi0
-Robert Stephenson0
-Brock Stewart*0
-Chris Stewart1
-Drew Storen#0
-Drew Storen#0
-Trevor Story27
-Matt Strahm0
-Dan Straily0
-Stephen Strasburg0
-Chris Stratton0
-Huston Street0
-Hunter Strickland0
-Ross Stripling0
-Marcus Stroman0
-Pedro Strop0
-Drew Stubbs1
-Drew Stubbs2
-Drew Stubbs0
-Daniel Stumpf*0
-Tyler Sturdevant0
-Albert Suarez0
-Eugenio Suarez21
-Jesus Sucre1
-Eric Surkamp*0
-Andrew Susac1
-Brent Suter*0
-Ichiro Suzuki*1
-Kurt Suzuki8
-Dansby Swanson3
-Anthony Swarzak0
-Blake Swihart#0
-Noah Syndergaard*3
-Matt Szczur5
-Jameson Taillon0
-Masahiro Tanaka0
-Raimel Tapia*0
-Chris Taylor0
-Chris Taylor1
-Michael Taylor7
-Junichi Tazawa0
-Julio Teheran0
-Mark Teixeira#15
-Ruben Tejada0
-Ruben Tejada0
-Tomas Telis#1
-Ryan Tepera0
-Nick Tepesch0
-Josh Thole*1
-Jake Thompson0
-Trayce Thompson13
-Tyler Thornburg0
-Matt Thornton*0
-Chris Tillman0
-Charlie Tilson*0
-Andrew Toles*3
-Shawn Tolleson0
-Ashur Tolliver*0
-Yasmany Tomas31
-Josh Tomlin0
-Kelby Tomlinson0
-Michael Tonkin0
-Carlos Torres0
-Jose Torres*0
-Ronald Torreyes1
-Devon Travis11
-Blake Treinen0
-Andrew Triggs0
-Nick Tropeano0
-Mike Trout29
-Mark Trumbo47
-Chin-hui Tsao0
-Preston Tucker*4
-Matt Tuiasosopo0
-Sam Tuivailala0
-Troy Tulowitzki24
-Jacob Turner0
-Justin Turner27
-Trea Turner13
-Koji Uehara0
-Justin Upton31
-Melvin Upton16
-Melvin Upton4
-Jose Urena0
-Julio Urias*0
-Juan Uribe7
-Chase Utley*14
-Pat Valaika1
-Luis Valbuena*13
-Jose Valdez0
-Danny Valencia17
-Scott Van Slyke1
-Cesar Vargas0
-Jason Vargas*0
-Kennys Vargas#10
-Christian Vazquez1
-Vince Velasquez0
-Will Venable*0
-Pat Venditte*0
-Pat Venditte*0
-Yordano Ventura0
-Drew VerHagen0
-Justin Verlander0
-Logan Verrett0
-Carlos Villanueva0
-Jonathan Villar#19
-Nick Vincent0
-Arodys Vizcaino0
-Dan Vogelbach*0
-Ryan Vogelsong0
-Stephen Vogt*14
-Edinson Volquez0
-Joey Votto*29
-Michael Wacha0
-Tyler Wagner0
-Adam Wainwright2
-Kyle Waldrop*0
-Neil Walker#23
-Taijuan Walker0
-Brett Wallace*6
-Colin Walsh#0
-Zach Walters#0
-Chien-Ming Wang0
-Adam Warren0
-Adam Warren0
-Tony Watson*0
-Jered Weaver0
-Luke Weaver0
-Daniel Webb0
-Ryan Webb0
-Ryan Weber0
-Jemile Weeks#0
-Rickie Weeks9
-J.B. Wendelken0
-Joey Wendle*1
-Jayson Werth21
-Robert Whalen0
-Tyler White8
-Chase Whitley0
-Joe Wieland0
-Matt Wieters#17
-Tom Wilhelmsen0
-Tom Wilhelmsen0
-Andy Wilkins*1
-Jerome Williams0
-Mason Williams*0
-Trevor Williams0
-Mac Williamson6
-Alex Wilson0
-Bobby Wilson0
-Bobby Wilson3
-Bobby Wilson4
-Justin Wilson*0
-Tyler Wilson0
-Alex Wimmers*0
-Daniel Winkler0
-Matt Wisler0
-Chris Withrow0
-Nick Wittgren0
-Tony Wolters*3
-Kolten Wong*5
-Alex Wood0
-Blake Wood0
-Travis Wood0
-Vance Worley0
-Danny Worth0
-Daniel Wright0
-Daniel Wright0
-David Wright7
-Mike Wright0
-Steven Wright0
-Kirby Yates*0
-Christian Yelich*21
-Gabriel Ynoa0
-Michael Ynoa0
-Rafael Ynoa#0
-Chris Young9
-Chris Young0
-Eric Young#0
-Madison Younginer0
-Rob Zastryzny0
-Brad Ziegler0
-Brad Ziegler0
-Ryan Zimmerman15
-Jordan Zimmermann0
-Ben Zobrist#18
-Mike Zunino12
-Tony Zych0
+Fernando Abad*                  0
+Fernando Abad*                  0
+Jose Abreu                      25
+A.J. Achter                     0
+Dustin Ackley*                  0
+Cristhian Adames#               2
+Austin Adams                    0
+Matt Adams*                     16
+Tim Adleman                     0
+Ehire Adrianza#                 2
+Jesus Aguilar                   0
+Nick Ahmed                      4
+Andrew Albers                   0
+Matt Albers*                    0
+Hanser Alberto                  0
+Al Alburquerque                 0
+Arismendy Alcantara#            0
+Raul Alcantara                  0
+Scott Alexander*                0
+Jorge Alfaro                    0
+Cody Allen                      0
+Abraham Almonte#                1
+Albert Almora                   3
+Yonder Alonso*                  7
+Dan Altavilla                   0
+Aaron Altherr                   4
+Jose Altuve                     24
+Dariel Alvarez                  0
+Dario Alvarez*                  0
+Dario Alvarez*                  0
+Jose Alvarez*                   0
+Pedro Alvarez*                  22
+Alexi Amarista*                 0
+Brett Anderson*                 0
+Chase Anderson                  0
+Cody Anderson                   0
+Tim Anderson                    9
+Tyler Anderson*                 1
+Robert Andino                   0
+Matt Andriese                   0
+Elvis Andrus                    8
+Dustin Antolin                  0
+Nori Aoki*                      4
+Jayson Aquino*                  0
+Elvis Araujo*                   0
+Chris Archer                    0
+Orlando Arcia                   4
+Oswaldo Arcia*                  4
+Oswaldo Arcia*                  2
+Oswaldo Arcia*                  0
+Oswaldo Arcia*                  2
+Nolan Arenado                   41
+Shawn Armstrong                 0
+Jonathan Aro                    0
+Jake Arrieta                    2
+Cody Asche*                     4
+Alec Asher                      0
+Carlos Asuaje*                  0
+Tyler Austin                    5
+Alex Avila*                     7
+Luis Avilan*                    0
+Mike Aviles                     1
+John Axford                     0
+Erick Aybar#                    2
+Erick Aybar#                    1
+Javier Baez                     14
+Pedro Baez                      0
+Andrew Bailey                   0
+Andrew Bailey                   0
+Homer Bailey                    0
+Jett Bandy                      8
+Johnny Barbato                  0
+Austin Barnes                   0
+Brandon Barnes                  0
+Danny Barnes*                   0
+Jacob Barnes                    0
+Matt Barnes                     0
+Tony Barnette                   0
+Darwin Barney                   4
+Tucker Barnhart#                7
+Kyle Barraclough                0
+Jake Barrett                    0
+Chris Bassitt                   0
+Antonio Bastardo                0
+Antonio Bastardo                0
+Trevor Bauer                    0
+Buddy Baumann*                  0
+Jose Bautista                   22
+Chris Beck                      0
+Gordon Beckham                  5
+Gordon Beckham                  0
+Tim Beckham                     5
+Cam Bedrosian                   0
+Matt Belisle                    0
+Josh Bell#                      3
+Brandon Belt*                   17
+Carlos Beltran#                 22
+Carlos Beltran#                 7
+Adrian Beltre                   32
+Andrew Benintendi*              2
+Joaquin Benoit                  0
+Joaquin Benoit                  0
+James Beresford*                0
+Christian Bergman               0
+Jose Berrios                    0
+Dellin Betances                 0
+Christian Bethancourt           6
+Chad Bettis                     0
+Mookie Betts                    31
+Joe Biagini                     0
+Ty Blach                        0
+Charlie Blackmon*               29
+Aaron Blair                     0
+Andres Blanco#                  4
+Gregor Blanco*                  1
+Joe Blanton                     0
+Jabari Blash                    3
+Michael Blazek                  0
+Richard Bleier*                 0
+Jerry Blevins*                  0
+Xander Bogaerts                 21
+Mike Bolsinger                  0
+Emilio Bonifacio#               0
+Julio Borbon*                   0
+Wilfredo Boscan                 0
+Buddy Boshers*                  0
+Justin Bour*                    15
+Peter Bourjos                   5
+Michael Bourn*                  3
+Michael Bourn*                  2
+Matthew Bowman                  0
+Brad Boxberger                  0
+Matt Boyd*                      0
+Blaine Boyer                    0
+Brad Brach                      0
+Silvino Bracho                  0
+Archie Bradley                  0
+Jackie Bradley*                 26
+Jed Bradley*                    0
+Michael Brantley*               0
+Steven Brault*                  0
+Ryan Braun                      30
+Alex Bregman                    8
+Bryce Brentz                    1
+Craig Breslow*                  0
+Austin Brice                    0
+Parker Bridwell                 0
+Reid Brignac*                   0
+Socrates Brito*                 4
+Zach Britton*                   0
+Mike Broadway                   0
+Trevor Brown                    5
+Jonathan Broxton                0
+Keon Broxton                    9
+Jay Bruce*                      25
+Jay Bruce*                      8
+Kris Bryant                     39
+Jake Buchanan                   0
+Clay Buchholz*                  0
+Ryan Buchter*                   0
+Madison Bumgarner               3
+Dylan Bundy#                    0
+Enrique Burgos                  0
+Sean Burnett*                   0
+Andy Burns                      0
+Billy Burns#                    0
+Billy Burns#                    0
+Emmanuel Burriss#               0
+Matt Buschmann                  0
+Matt Bush                       0
+Nick Buss*                      1
+Drew Butera                     4
+Billy Butler                    4
+Billy Butler                    1
+Eddie Butler                    0
+Byron Buxton                    10
+Marlon Byrd                     5
+Asdrubal Cabrera#               23
+Mauricio Cabrera                0
+Melky Cabrera#                  14
+Miguel Cabrera                  38
+Ramon Cabrera#                  3
+Trevor Cahill                   0
+Lorenzo Cain                    9
+Matt Cain                       1
+Kole Calhoun*                   18
+Arquimedes Caminero             0
+Arquimedes Caminero             0
+Eric Campbell                   1
+Leonel Campos                   0
+Vicente Campos                  0
+Jeimer Candelario#              0
+Mark Canha                      3
+Robinson Cano*                  39
+Chris Capuano*                  0
+Matt Carasiti                   0
+Stephen Cardullo                2
+Matt Carpenter*                 21
+Carlos Carrasco                 0
+Ezequiel Carrera*               6
+Scott Carroll                   0
+Chris Carter                    41
+Curt Casali                     8
+Andrew Cashner                  0
+Andrew Cashner                  0
+Santiago Casilla                0
+Nick Castellanos                18
+Rusney Castillo                 0
+Welington Castillo              14
+Daniel Castro                   0
+Jason Castro*                   11
+Miguel Castro                   0
+Starlin Castro                  21
+Gavin Cecchini                  0
+Brett Cecil                     0
+Darrell Ceciliani*              0
+Xavier Cedeno*                  0
+Juan Centeno*                   3
+Francisco Cervelli              1
+Hunter Cervenka*                0
+Hunter Cervenka*                0
+Yoenis Cespedes                 31
+Luis Cessa                      0
+Jhoulys Chacin                  0
+Jhoulys Chacin                  0
+Andrew Chafin                   0
+Joba Chamberlain                0
+Aroldis Chapman*                0
+Aroldis Chapman*                0
+Kevin Chapman*                  0
+J.T. Chargois#                  0
+Tyler Chatwood                  0
+Jesse Chavez                    0
+Jesse Chavez                    0
+Wei-Yin Chen*                   0
+Robinson Chirinos               9
+Lonnie Chisenhall*              8
+Ji-Man Choi*                    5
+Shin-Soo Choo*                  7
+Tony Cingrani*                  0
+Steve Cishek                    0
+Alex Claudio*                   0
+Paul Clemens                    0
+Paul Clemens                    0
+Steve Clevenger*                1
+Mike Clevinger                  0
+Tyler Clippard                  0
+Tyler Clippard                  0
+Jason Coats                     1
+Alex Cobb                       0
+Chris Coghlan*                  5
+Chris Coghlan*                  1
+Phil Coke*                      0
+Phil Coke*                      0
+Chris Colabello                 0
+A.J. Cole                       0
+Gerrit Cole                     1
+Louis Coleman                   0
+Tyler Collins*                  4
+Josh Collmenter                 0
+Josh Collmenter                 0
+Alex Colome                     0
+Bartolo Colon                   1
+Christian Colon                 1
+Joseph Colon                    0
+Gerardo Concepcion*             0
+Michael Conforto*               12
+Hank Conger#                    3
+Adam Conley*                    0
+Willson Contreras               12
+Patrick Corbin*                 0
+Carlos Correa                   20
+Jarred Cosart                   0
+Jarred Cosart                   0
+Caleb Cotham                    0
+Jharel Cotton                   0
+Daniel Coulombe*                0
+Kaleb Cowart#                   1
+Collin Cowgill                  0
+Zack Cozart                     16
+Tyler Cravy                     1
+Brandon Crawford*               12
+Carl Crawford*                  0
+Coco Crisp#                     11
+Coco Crisp#                     2
+Kyle Crockett*                  0
+C.J. Cron                       16
+Nelson Cruz                     43
+Tony Cruz                       0
+Johnny Cueto                    0
+William Cuevas                  0
+Charlie Culberson               1
+Brandon Cunniff                 0
+Todd Cunningham#                0
+Zac Curtis*                     0
+Cheslor Cuthbert                12
+Chase d'Arnaud                  1
+Travis d'Arnaud                 4
+David Dahl*                     7
+Tyler Danish                    0
+John Danks*                     0
+Yu Darvish                      1
+Matt Davidson                   0
+Zach Davies                     0
+Chris Davis*                    38
+Ike Davis*                      0
+Khris Davis                     42
+Rajai Davis                     12
+Wade Davis                      0
+Grant Dayton*                   0
+Alejandro De Aza*               6
+Ivan De Jesus                   1
+Joel De La Cruz#                0
+Jorge De La Rosa*               0
+Rubby De La Rosa                0
+Jose De Leon                    0
+Abel De Los Santos              0
+Pat Dean*                       0
+Jaff Decker*                    0
+Jacob deGrom*                   0
+Steve Delabar                   0
+Randall Delgado                 0
+Matt den Dekker*                1
+Matt Dermody                    0
+Daniel Descalso*                8
+Anthony DeSclafani              0
+Delino DeShields                4
+Ian Desmond                     22
+Odrisamer Despaigne             0
+Odrisamer Despaigne             0
+Ross Detwiler                   0
+Ross Detwiler                   0
+Chris Devenski                  0
+Scott Diamond*                  0
+Aledmys Diaz                    17
+Dayan Diaz                      0
+Edwin Diaz                      0
+Elias Diaz                      0
+Jumbo Diaz                      0
+Alex Dickerson*                 10
+Corey Dickerson*                24
+R.A. Dickey                     0
+Jake Diekman*                   0
+Derek Dietrich*                 7
+Wilmer Difo#                    1
+Jose Dominguez                  0
+Matt Dominguez                  0
+Josh Donaldson                  37
+Sean Doolittle*                 0
+Brian Dozier                    42
+Hunter Dozier                   0
+Kyle Drabek                     0
+Oliver Drake                    0
+Stephen Drew*                   8
+Brandon Drury                   16
+Lucas Duda*                     7
+Brian Duensing*                 0
+Tyler Duffey                    0
+Danny Duffy*                    0
+Matt Duffy                      4
+Matt Duffy                      0
+Matt Duffy                      1
+Zach Duke*                      0
+Zach Duke*                      0
+Ryan Dull                       0
+Mike Dunn*                      0
+Adam Duvall                     33
+Jarrod Dyson*                   1
+Sam Dyson                       0
+Adam Eaton*                     14
+Josh Edgin                      0
+Carl Edwards                    0
+Zach Eflin                      0
+Cody Ege*                       0
+Cody Ege*                       0
+Brett Eibner                    3
+Brett Eibner                    3
+Jerad Eickhoff                  0
+Roenis Elias*                   0
+Brian Ellington                 0
+A.J. Ellis                      1
+A.J. Ellis                      1
+Jacoby Ellsbury*                9
+Jake Elmore                     0
+Edwin Encarnacion               42
+Nathan Eovaldi                  0
+Robbie Erlin                    0
+Jake Esch                       0
+Alcides Escobar                 7
+Eduardo Escobar#                6
+Edwin Escobar*                  0
+Yunel Escobar                   5
+Danny Espinosa#                 24
+Carlos Estevez                  0
+Marco Estrada                   0
+Andre Ethier*                   1
+Dana Eveland*                   0
+Jeurys Familia                  0
+Buck Farmer*                    0
+Danny Farquhar                  0
+Andrew Faulkner                 0
+Taylor Featherston              0
+Tim Federowicz                  0
+Scott Feldman*                  0
+Scott Feldman*                  0
+Michael Feliz                   0
+Neftali Feliz                   0
+Jose Fernandez                  0
+Prince Fielder*                 8
+Josh Fields                     0
+Josh Fields                     0
+Casey Fien                      0
+Casey Fien                      0
+Mike Fiers                      0
+Cole Figueroa*                  0
+Brandon Finnegan*               0
+Doug Fister*                    0
+Ryan Flaherty*                  3
+Yohan Flande*                   0
+Kendry Flores                   0
+Ramon Flores*                   2
+Wilmer Flores                   16
+Pedro Florimon#                 0
+Dylan Floro*                    0
+Tyler Flowers                   8
+Gavin Floyd                     0
+Brian Flynn*                    0
+Mike Foltynewicz                0
+Logan Forsythe                  20
+Dexter Fowler#                  13
+Maikel Franco                   25
+Jeff Francoeur                  7
+Jeff Francoeur                  0
+Nick Franklin#                  6
+Adam Frazier*                   2
+Todd Frazier                    40
+Freddie Freeman*                34
+Mike Freeman*                   0
+Mike Freeman*                   0
+Sam Freeman                     0
+David Freese                    13
+Carlos Frias                    0
+Christian Friedrich             0
+Eric Fryer                      0
+Eric Fryer                      0
+Reymond Fuentes*                0
+Carson Fulmer                   0
+Michael Fulmer                  0
+Yovani Gallardo                 0
+Joey Gallo*                     1
+Freddy Galvis#                  20
+Eddie Gamboa                    0
+Ben Gamel*                      0
+Ben Gamel*                      1
+John Gant                       0
+Adonis Garcia                   14
+Avisail Garcia                  12
+Greg Garcia*                    3
+Jaime Garcia*                   0
+Leury Garcia#                   1
+Luis Garcia                     0
+Yimi Garcia                     0
+Brett Gardner*                  7
+Dustin Garneau                  1
+Perci Garner                    0
+Ryan Garton                     0
+Matt Garza                      0
+Evan Gattis                     32
+Kevin Gausman*                  0
+Cory Gearrin                    0
+Dillon Gee                      0
+Steve Geltz                     0
+Scooter Gennett*                14
+Craig Gentry                    0
+Gonzalez Germen                 0
+Johnny Giavotella               6
+Kyle Gibson                     0
+Ken Giles                       0
+Conor Gillaspie*                6
+Cole Gillespie                  0
+Sean Gilmartin*                 0
+Chris Gimenez                   4
+Lucas Giolito                   0
+Chad Girodo*                    0
+Mychal Givens                   0
+Tyler Glasnow*                  0
+Koda Glover                     0
+Zack Godley                     0
+Erik Goeddel                    0
+Tyler Goeddel                   4
+David Goforth                   0
+Ryan Goins*                     3
+Paul Goldschmidt                24
+Yan Gomes                       9
+Carlos Gomez                    5
+Carlos Gomez                    8
+Jeanmar Gomez                   0
+Adrian Gonzalez*                18
+Carlos Gonzalez*                25
+Chi Chi Gonzalez                0
+Erik Gonzalez                   0
+Gio Gonzalez                    0
+Marwin Gonzalez#                13
+Miguel Gonzalez                 0
+Severino Gonzalez               0
+Brian Goodwin*                  0
+Nick Goody                      0
+Alex Gordon*                    17
+Dee Gordon*                     1
+Terrance Gore                   0
+Tom Gorzelanny                  0
+Anthony Gose*                   2
+Tuffy Gosewisch                 3
+Philip Gosselin                 2
+Trevor Gott                     0
+Matt Grace*                     0
+J.R. Graham                     0
+Yasmani Grandal#                27
+Curtis Granderson*              30
+Juan Graterol                   0
+Kendall Graveman                0
+Jon Gray                        0
+Sonny Gray                      0
+Chad Green*                     0
+Grant Green                     1
+Shane Greene                    0
+Luke Gregerson*                 0
+Didi Gregorius*                 20
+Zack Greinke                    0
+Randal Grichuk                  24
+A.J. Griffin                    0
+Jason Grilli                    0
+Jason Grilli                    0
+Justin Grimm                    0
+Robbie Grossman#                11
+Robert Gsellman                 0
+Mayckol Guaipe                  0
+Deolis Guerra                   0
+Javy Guerra                     0
+Junior Guerra                   0
+Tayron Guerrero                 0
+Jason Gurka*                    0
+Yulieski Gurriel                3
+Jandel Gustave                  0
+Franklin Gutierrez              14
+Brandon Guyer                   7
+Brandon Guyer                   2
+Jedd Gyorko                     30
+Jesse Hahn                      0
+David Hale                      0
+Cody Hall                       0
+Cole Hamels*                    0
+Billy Hamilton#                 3
+Jason Hammel                    0
+Brad Hand*                      0
+Ryan Hanigan                    1
+Mitch Haniger                   5
+Alen Hanson#                    0
+J.A. Happ*                      0
+Blaine Hardy*                   0
+J.J. Hardy                      9
+Bryce Harper*                   24
+Lucas Harrell#                  0
+Lucas Harrell#                  0
+Will Harris                     0
+Josh Harrison                   4
+Donnie Hart*                    0
+Matt Harvey                     0
+Chris Hatcher#                  0
+Steve Hathaway*                 0
+Drew Hayes                      0
+Jeremy Hazelbaker*              12
+Chase Headley#                  14
+Ryon Healy                      13
+Andrew Heaney*                  0
+Adeiny Hechavarria              3
+Austin Hedges                   0
+Chris Heisey                    9
+Ben Heller                      0
+Jeremy Hellickson               0
+Heath Hembree                   0
+Jim Henderson*                  0
+Kyle Hendricks                  0
+Liam Hendriks                   0
+Guillermo Heredia               1
+Cesar Hernandez#                6
+David Hernandez                 0
+Enrique Hernandez               7
+Felix Hernandez                 0
+Gorkys Hernandez                2
+Marco Hernandez*                1
+Oscar Hernandez                 1
+Roberto Hernandez               0
+Teoscar Hernandez               4
+Kelvin Herrera                  0
+Odubel Herrera*                 15
+Chris Herrmann*                 6
+Frank Herrmann*                 0
+Keith Hessler*                  0
+Keith Hessler*                  0
+Chris Heston                    0
+Jason Heyward*                  7
+Aaron Hicks#                    8
+John Hicks                      0
+Aaron Hill                      8
+Aaron Hill                      2
+Rich Hill*                      0
+Rich Hill*                      0
+Dalier Hinojosa                 0
+Luke Hochevar                   0
+Jeff Hoffman                    0
+Bryan Holaday                   2
+Bryan Holaday                   0
+Jonathan Holder                 0
+Derek Holland#                  0
+Matt Holliday                   20
+Brock Holt*                     7
+Tyler Holt                      0
+Destin Hood                     1
+J.J. Hoover                     0
+Eric Hosmer*                    25
+T.J. House                      0
+Ryan Howard*                    25
+J.P. Howell*                    0
+Jared Hoying*                   0
+James Hoyt                      0
+Daniel Hudson                   0
+David Huff#                     0
+Jared Hughes                    0
+Phil Hughes                     0
+Nick Hundley                    10
+Cedric Hunter*                  1
+Tommy Hunter                    0
+Tommy Hunter                    0
+Jason Hursh                     0
+Drew Hutchison*                 0
+Drew Hutchison*                 0
+Chris Iannetta                  7
+Jose Iglesias                   4
+Raisel Iglesias                 0
+Ender Inciarte*                 3
+Omar Infante                    0
+Hernan Iribarren*               0
+Hisashi Iwakuma                 0
+Austin Jackson                  0
+Edwin Jackson                   0
+Edwin Jackson                   0
+Luke Jackson                    0
+Paul Janish                     0
+Travis Jankowski*               2
+Kenley Jansen#                  0
+John Jaso*                      8
+Jon Jay*                        2
+Jeremy Jeffress                 0
+Jeremy Jeffress                 0
+Tyrell Jenkins                  0
+Dan Jennings*                   0
+Desmond Jennings                7
+Kyle Jensen                     2
+Kevin Jepsen                    0
+Kevin Jepsen                    0
+Ubaldo Jimenez                  0
+Chris Johnson                   5
+Erik Johnson                    0
+Erik Johnson                    0
+Jim Johnson                     0
+Kelly Johnson*                  1
+Kelly Johnson*                  9
+Micah Johnson*                  0
+Steve Johnson                   0
+Adam Jones                      29
+JaCoby Jones                    0
+Nate Jones                      0
+Caleb Joseph                    0
+Tommy Joseph                    21
+Matthew Joyce*                  13
+Aaron Judge                     4
+Taylor Jungmann                 0
+Tommy Kahnle                    0
+Ryan Kalish*                    0
+Jung Ho Kang                    21
+Nate Karns                      0
+Munenori Kawasaki*              0
+Scott Kazmir*                   0
+Keone Kela                      0
+Shawn Kelley                    0
+Carson Kelly                    0
+Casey Kelly                     0
+Don Kelly*                      0
+Joe Kelly                       0
+Ty Kelly#                       1
+Matt Kemp                       23
+Matt Kemp                       12
+Tony Kemp*                      1
+Howie Kendrick                  8
+Ian Kennedy                     0
+Logan Kensing                   0
+Max Kepler*                     17
+Clayton Kershaw*                0
+Dallas Keuchel*                 0
+Spencer Kieboom                 0
+Dean Kiekhefer*                 0
+Kevin Kiermaier*                12
+Hyun Soo Kim*                   6
+Craig Kimbrel                   0
+Ian Kinsler                     28
+Brandon Kintzler                0
+Jason Kipnis*                   23
+Michael Kirkman*                0
+Michael Kirkman*                0
+Patrick Kivlehan                1
+Patrick Kivlehan                0
+Phil Klein                      0
+Phil Klein                      0
+Corey Kluber                    0
+Corey Knebel                    0
+Matt Koch*                      0
+Tom Koehler                     0
+George Kontos                   0
+Erik Kratz                      0
+Erik Kratz                      1
+Ian Krol*                       0
+Chad Kuhl                       0
+Tommy La Stella*                2
+John Lackey                     0
+Tyler Ladendorf                 0
+Juan Lagares                    3
+Junior Lake                     1
+Blake Lalli*                    0
+Ryan LaMarre                    0
+Jake Lamb*                      29
+John Lamb*                      0
+Andrew Lambo*                   0
+Mat Latos                       0
+Mat Latos                       1
+Derek Law                       0
+Brett Lawrie                    12
+Tommy Layne*                    0
+Tommy Layne*                    0
+Mike Leake                      0
+Wade LeBlanc*                   0
+Wade LeBlanc*                   0
+Jose Leclerc                    0
+Dae-ho Lee                      14
+DJ LeMahieu                     11
+Arnold Leon                     0
+Sandy Leon#                     7
+Dominic Leone                   0
+Jon Lester*                     0
+Colby Lewis                     0
+Adam Liberatore*                0
+Pat Light                       0
+Pat Light                       0
+Tim Lincecum*                   0
+Adam Lind*                      20
+Francisco Lindor#               15
+Francisco Liriano*              1
+Francisco Liriano*              0
+Jose Lobaton#                   3
+Kyle Lobstein*                  0
+Jeff Locke*                     0
+Adam Loewen*                    0
+Boone Logan                     0
+Kyle Lohse                      0
+James Loney*                    9
+Evan Longoria                   36
+Javier Lopez*                   0
+Rafael Lopez*                   0
+Reynaldo Lopez                  0
+Michael Lorenzen                1
+David Lough*                    0
+Aaron Loup*                     0
+Mark Lowe*                      0
+Jed Lowrie#                     2
+Jonathan Lucroy                 13
+Jonathan Lucroy                 11
+Cory Luebke                     0
+Seth Lugo                       0
+Jordan Lyles                    0
+Tyler Lyons*                    0
+Dixon Machado                   0
+Manny Machado                   37
+Ryan Madson*                    0
+Kenta Maeda                     1
+Matt Magill                     0
+Damien Magnifico                0
+Greg Mahle*                     0
+Mikie Mahtook                   3
+Luke Maile                      3
+Martin Maldonado                8
+Sean Manaea*                    0
+Trey Mancini                    3
+Seth Maness                     0
+Jeff Manship                    0
+Joe Mantiply                    0
+Manuel Margot                   0
+Jhan Marinez                    0
+Jhan Marinez                    0
+Michael Mariot                  0
+Jake Marisnick                  5
+Nick Markakis*                  13
+Justin Marks*                   0
+Matt Marksberry*                0
+German Marquez                  0
+Deven Marrero                   0
+Evan Marshall                   0
+Jefry Marte                     15
+Kelvin Marte                    0
+Ketel Marte#                    1
+Starling Marte                  9
+Cody Martin                     0
+Leonys Martin*                  15
+Rafael Martin                   0
+Russell Martin                  20
+Carlos Martinez                 0
+J.D. Martinez                   22
+Jose Martinez                   0
+Michael Martinez#               0
+Michael Martinez#               1
+Nick Martinez*                  0
+Victor Martinez#                27
+Darin Mastroianni               0
+Jeff Mathis                     2
+Brian Matusz*                   0
+Brian Matusz*                   0
+Steven Matz                     0
+Joe Mauer*                      11
+Brandon Maurer                  0
+Bruce Maxwell*                  1
+Trevor May                      0
+Cameron Maybin                  4
+Mike Mayers                     0
+Nomar Mazara*                   20
+Vin Mazzaro                     0
+Zach McAllister                 0
+Matt McBride                    0
+Brian McCann*                   20
+James McCann                    12
+Brandon McCarthy                0
+Kevin McCarthy                  0
+Lance McCullers*                0
+Andrew McCutchen                24
+T.J. McFarland*                 0
+Jake McGee*                     0
+Casey McGehee                   0
+Dustin McGowan                  0
+Collin McHugh                   0
+Michael McKenry                 0
+Kris Medlen#                    0
+Adalberto Mejia                 0
+Mark Melancon                   0
+Mark Melancon                   0
+Tim Melville                    0
+Yohander Mendez*                0
+Daniel Mengden                  0
+Jordy Mercer                    11
+Whit Merrifield                 2
+Ryan Merritt*                   0
+Devin Mesoraco                  0
+Alex Meyer                      0
+Alex Meyer                      0
+Will Middlebrooks               0
+Wade Miley*                     0
+Wade Miley*                     0
+Andrew Miller*                  0
+Andrew Miller*                  0
+Brad Miller*                    30
+Justin Miller                   0
+Mike Miller                     0
+Shelby Miller                   0
+Alec Mills                      0
+Tommy Milone*                   0
+Juan Minaya                     0
+Ariel Miranda*                  0
+Ariel Miranda*                  0
+Bryan Mitchell*                 0
+Yadier Molina                   8
+Dustin Molleken*                0
+Yoan Moncada#                   0
+Raul Mondesi#                   2
+Miguel Montero*                 8
+Rafael Montero                  0
+Mike Montgomery*                0
+Mike Montgomery*                0
+Adam Moore                      0
+Matt Moore*                     0
+Matt Moore*                     0
+Franklin Morales*               0
+Kendrys Morales#                30
+Colin Moran*                    0
+Mitch Moreland*                 22
+Adam Morgan*                    0
+Shawn Morimando*                0
+Mike Morin                      0
+Justin Morneau*                 6
+Max Moroff#                     0
+A.J. Morris                     0
+Bryan Morris*                   0
+Logan Morrison*                 14
+Brandon Morrow                  0
+Mike Morse                      0
+Charlie Morton                  0
+Jon Moscot                      0
+Brandon Moss*                   28
+Jason Motte                     0
+Taylor Motter                   2
+Mike Moustakas*                 7
+Steven Moya*                    5
+Peter Moylan                    0
+Conor Mullee                    0
+Max Muncy*                      2
+Daniel Murphy*                  25
+John Ryan Murphy                1
+Tom Murphy                      5
+Colton Murray                   0
+Joseph Musgrove                 0
+Wil Myers                       28
+Mike Napoli                     34
+Tyler Naquin*                   14
+Omar Narvaez*                   1
+Chris Narveson*                 0
+Joe Nathan                      0
+Joe Nathan                      0
+Daniel Nava#                    1
+Daniel Nava#                    0
+Dioner Navarro#                 6
+Dioner Navarro#                 0
+Zach Neal                       0
+Jimmy Nelson                    0
+Hector Neris                    0
+Pat Neshek#                     0
+Juan Nicasio                    0
+Brett Nicholas*                 2
+Justin Nicolino*                0
+Jon Niese*                      0
+Jon Niese*                      0
+Kirk Nieuwenhuis*               13
+Brandon Nimmo*                  1
+Aaron Nola                      0
+Ricky Nolasco                   0
+Ricky Nolasco                   0
+Nick Noonan*                    0
+Bud Norris                      0
+Bud Norris                      0
+Daniel Norris*                  0
+Derek Norris                    14
+Ivan Nova                       0
+Ivan Nova                       0
+Eduardo Nunez                   12
+Eduardo Nunez                   4
+Renato Nunez                    0
+Vidal Nuno*                     0
+Peter O'Brien                   5
+Darren O'Day                    0
+Eric O'Flaherty*                0
+Shawn O'Malley#                 2
+Ryan O'Rourke                   0
+Sean O'Sullivan                 0
+Scott Oberg                     0
+Brett Oberholtzer*              0
+Brett Oberholtzer*              0
+Rougned Odor*                   33
+Jake Odorizzi                   0
+Alexi Ogando                    0
+Nefi Ogando                     0
+Seung-hwan Oh                   0
+Ross Ohlendorf                  0
+Steven Okert*                   0
+Hector Olivera                  0
+Matt Olson*                     0
+Tyler Olson                     0
+Logan Ondrusek                  0
+Paulo Orlando                   5
+Rafael Ortega*                  1
+David Ortiz*                    38
+Josh Osich*                     0
+Roberto Osuna                   0
+Dan Otero                       0
+Adam Ottavino#                  0
+Dillon Overton*                 0
+Henry Owens*                    0
+Chris Owings                    5
+Marcell Ozuna                   23
+Jordan Pacheco                  0
+Angel Pagan#                    12
+Joe Panik*                      10
+Jonathan Papelbon               0
+Jimmy Paredes#                  1
+Jimmy Paredes#                  4
+Byung Ho Park                   12
+Blake Parker                    0
+Blake Parker                    0
+Jarrett Parker*                 5
+Chris Parmelee*                 2
+Bobby Parnell                   0
+Gerardo Parra*                  7
+Curtis Partch                   0
+Jordan Patterson*               0
+Spencer Patton                  0
+David Paulino                   0
+Ben Paulsen*                    1
+James Paxton*                   0
+James Pazos                     0
+Brad Peacock                    0
+Steve Pearce                    10
+Steve Pearce                    3
+Jake Peavy                      0
+Joc Pederson*                   25
+Dustin Pedroia                  15
+Mike Pelfrey                    0
+Ariel Pena                      0
+Brayan Pena#                    0
+Felix Pena                      0
+Francisco Pena                  1
+Ramiro Pena#                    1
+Hunter Pence                    13
+Cliff Pennington#               3
+David Peralta*                  4
+Jhonny Peralta                  8
+Joel Peralta                    0
+Joel Peralta                    0
+Wandy Peralta*                  0
+Wily Peralta                    1
+Jose Peraza                     3
+Luis Perdomo                    0
+Carlos Perez                    5
+Hernan Perez                    13
+Martin Perez*                   0
+Oliver Perez*                   0
+Roberto Perez                   3
+Salvador Perez                  22
+Williams Perez                  0
+Yefri Perez#                    0
+Glen Perkins*                   0
+Jace Peterson*                  7
+Gregorio Petit                  2
+Yusmeiro Petit                  0
+Jake Petricka                   0
+Tommy Pham                      9
+Josh Phegley                    1
+David Phelps                    0
+Brandon Phillips                11
+Zach Phillips*                  0
+A.J. Pierzynski*                2
+Kevin Pillar                    7
+Manny Pina                      2
+Branden Pinder                  0
+Chad Pinder                     1
+Michael Pineda                  0
+Josmil Pinto                    0
+Jose Pirela                     0
+Stephen Piscotty                22
+Kevin Plawecki                  1
+Trevor Plouffe                  12
+Adam Plutko                     0
+Gregory Polanco*                22
+Jorge Polanco#                  4
+A.J. Pollock                    2
+Drew Pomeranz                   1
+Drew Pomeranz                   0
+Dalton Pompey#                  0
+Rick Porcello                   0
+Buster Posey                    14
+Brooks Pounders                 0
+Martin Prado                    8
+Alex Presley*                   3
+Alex Presley*                   0
+Ryan Pressly                    0
+David Price*                    0
+Jurickson Profar#               5
+Yasiel Puig                     11
+Albert Pujols                   31
+Matt Purke*                     0
+Zach Putnam                     0
+Kevin Quackenbush               0
+Chad Qualls                     0
+Juniel Querecuto#               0
+Roman Quinn#                    0
+Jose Quintana                   0
+Ryan Raburn                     9
+Alexei Ramirez                  5
+Alexei Ramirez                  1
+Erasmo Ramirez                  0
+Hanley Ramirez                  30
+J.C. Ramirez                    0
+J.C. Ramirez                    0
+Jose Ramirez                    0
+Jose Ramirez#                   11
+Neil Ramirez                    0
+Neil Ramirez                    0
+Neil Ramirez                    0
+Noe Ramirez                     0
+A.J. Ramos                      0
+Cesar Ramos*                    0
+Edubray Ramos                   0
+Wilson Ramos                    22
+Anthony Ranaudo                 0
+Anthony Ranaudo                 1
+Colby Rasmus*                   15
+Cory Rasmus                     0
+Josh Ravin                      0
+Robbie Ray*                     1
+Colin Rea                       0
+Colin Rea                       0
+J.T. Realmuto                   11
+Anthony Recker                  2
+Josh Reddick*                   8
+Josh Reddick*                   2
+A.J. Reed*                      3
+Addison Reed*                   0
+Cody Reed*                      0
+Michael Reed                    0
+Rob Refsnyder                   0
+Nolan Reimold                   6
+Tony Renda                      0
+Anthony Rendon                  20
+Hunter Renfroe                  4
+Ben Revere*                     2
+Alex Reyes                      0
+Jo-Jo Reyes*                    0
+Jose Reyes#                     8
+Mark Reynolds                   14
+Matt Reynolds*                  0
+Matt Reynolds                   3
+Clayton Richard*                0
+Clayton Richard*                0
+Garrett Richards                0
+Joey Rickard                    5
+Rene Rivera                     6
+T.J. Rivera                     3
+Yadiel Rivera                   0
+Felipe Rivero*                  0
+Felipe Rivero*                  0
+Anthony Rizzo*                  32
+Donn Roach                      0
+Tanner Roark                    0
+Dan Robertson                   0
+David Robertson                 0
+Clint Robinson*                 5
+Shane Robinson                  1
+Hansel Robles                   0
+Brady Rodgers                   0
+Fernando Rodney                 0
+Fernando Rodney                 0
+Carlos Rodon*                   0
+Alex Rodriguez                  9
+Eduardo Rodriguez*              0
+Fernando Rodriguez              0
+Francisco Rodriguez             0
+Joely Rodriguez*                0
+Sean Rodriguez                  18
+Chaz Roe                        0
+Chaz Roe                        0
+Jason Rogers                    0
+Taylor Rogers*                  0
+Miguel Rojas                    1
+David Rollins*                  0
+Jimmy Rollins#                  2
+Enny Romero*                    0
+Stefen Romero                   0
+Andrew Romine#                  2
+Austin Romine                   4
+Sergio Romo                     0
+Bruce Rondon                    0
+Hector Rondon                   0
+Jorge Rondon                    0
+Jose Rondon                     0
+Adam Rosales                    13
+Alberto Rosario                 0
+Eddie Rosario*                  10
+Trevor Rosenthal                0
+David Ross                      10
+Joe Ross                        0
+Robbie Ross*                    0
+Tyson Ross                      0
+Michael Roth*                   0
+Ben Rowen                       0
+Ryan Rua                        8
+Darin Ruf                       3
+Justin Ruggiano                 0
+Justin Ruggiano                 2
+Carlos Ruiz                     3
+Carlos Ruiz                     0
+Rio Ruiz*                       0
+Cameron Rupp                    16
+Chris Rusin*                    0
+Addison Russell                 21
+James Russell*                  0
+Josh Rutledge                   0
+Brendan Ryan                    0
+Kyle Ryan*                      0
+Hyun-Jin Ryu                    0
+Marc Rzepczynski*               0
+Marc Rzepczynski*               0
+CC Sabathia*                    0
+Tyler Saladino                  8
+Fernando Salas                  0
+Fernando Salas                  0
+Danny Salazar*                  0
+Chris Sale*                     0
+Jarrod Saltalamacchia#          12
+Jeff Samardzija                 0
+Adrian Sampson                  0
+Keyvius Sampson                 0
+Aaron Sanchez                   0
+Anibal Sanchez                  0
+Carlos Sanchez#                 4
+Gary Sanchez                    20
+Hector Sanchez#                 0
+Hector Sanchez#                 3
+Pablo Sandoval#                 0
+Jerry Sands                     1
+Miguel Sano                     25
+Carlos Santana#                 34
+Danny Santana#                  2
+Domingo Santana                 11
+Ervin Santana                   0
+Hector Santiago                 0
+Hector Santiago                 0
+Luis Sardinas#                  2
+Luis Sardinas#                  2
+Michael Saunders*               24
+Warwick Saupold                 0
+Rob Scahill*                    0
+Rob Scahill*                    0
+Logan Schafer*                  0
+Scott Schebler*                 9
+Tanner Scheppers                0
+Max Scherzer                    0
+Ryan Schimpf*                   20
+Jonathan Schoop                 25
+A.J. Schugel                    0
+Bo Schultz                      0
+Patrick Schuster                0
+Patrick Schuster                0
+Kyle Schwarber*                 0
+Robby Scott#                    0
+Evan Scribner                   0
+Xavier Scruggs                  1
+Corey Seager*                   26
+Kyle Seager*                    30
+Rob Segedin                     2
+Jean Segura                     20
+Steve Selsky                    2
+Marcus Semien                   27
+Luis Severino                   0
+Pedro Severino                  2
+Richie Shaffer                  1
+Bryan Shaw#                     0
+Travis Shaw*                    16
+James Shields                   0
+James Shields                   0
+Braden Shipley                  0
+Matt Shoemaker                  0
+Chasen Shreve*                  0
+J.B. Shuck*                     4
+Kevin Siegrist*                 0
+Andrelton Simmons               4
+Shae Simmons                    0
+Alfredo Simon                   0
+Tony Sipp*                      0
+Tyler Skaggs*                   0
+Blake Smith*                    0
+Carson Smith                    0
+Chris Smith                     0
+Jake Smith                      0
+Joe Smith                       0
+Joe Smith                       0
+Josh Smith                      0
+Kevan Smith                     0
+Mallex Smith*                   3
+Seth Smith*                     16
+Will Smith                      0
+Will Smith                      0
+Justin Smoak#                   14
+Josh Smoker*                    0
+Jake Smolinski                  7
+Drew Smyly*                     0
+Blake Snell*                    0
+Brandon Snyder                  4
+Miguel Socolovich               0
+Donovan Solano                  1
+Yangervis Solarte#              15
+Jorge Soler                     12
+Sammy Solis                     0
+Layne Somsen                    0
+Joakim Soria                    0
+Geovany Soto                    4
+Steven Souza                    17
+Denard Span*                    11
+Cory Spangenberg*               1
+George Springer                 29
+Jacob Stallings                 0
+Giancarlo Stanton               27
+Max Stassi                      0
+Robert Stephenson               0
+Brock Stewart*                  0
+Chris Stewart                   1
+Drew Storen#                    0
+Drew Storen#                    0
+Trevor Story                    27
+Matt Strahm                     0
+Dan Straily                     0
+Stephen Strasburg               0
+Chris Stratton                  0
+Huston Street                   0
+Hunter Strickland               0
+Ross Stripling                  0
+Marcus Stroman                  0
+Pedro Strop                     0
+Drew Stubbs                     1
+Drew Stubbs                     2
+Drew Stubbs                     0
+Daniel Stumpf*                  0
+Tyler Sturdevant                0
+Albert Suarez                   0
+Eugenio Suarez                  21
+Jesus Sucre                     1
+Eric Surkamp*                   0
+Andrew Susac                    1
+Brent Suter*                    0
+Ichiro Suzuki*                  1
+Kurt Suzuki                     8
+Dansby Swanson                  3
+Anthony Swarzak                 0
+Blake Swihart#                  0
+Noah Syndergaard*               3
+Matt Szczur                     5
+Jameson Taillon                 0
+Masahiro Tanaka                 0
+Raimel Tapia*                   0
+Chris Taylor                    0
+Chris Taylor                    1
+Michael Taylor                  7
+Junichi Tazawa                  0
+Julio Teheran                   0
+Mark Teixeira#                  15
+Ruben Tejada                    0
+Ruben Tejada                    0
+Tomas Telis#                    1
+Ryan Tepera                     0
+Nick Tepesch                    0
+Josh Thole*                     1
+Jake Thompson                   0
+Trayce Thompson                 13
+Tyler Thornburg                 0
+Matt Thornton*                  0
+Chris Tillman                   0
+Charlie Tilson*                 0
+Andrew Toles*                   3
+Shawn Tolleson                  0
+Ashur Tolliver*                 0
+Yasmany Tomas                   31
+Josh Tomlin                     0
+Kelby Tomlinson                 0
+Michael Tonkin                  0
+Carlos Torres                   0
+Jose Torres*                    0
+Ronald Torreyes                 1
+Devon Travis                    11
+Blake Treinen                   0
+Andrew Triggs                   0
+Nick Tropeano                   0
+Mike Trout                      29
+Mark Trumbo                     47
+Chin-hui Tsao                   0
+Preston Tucker*                 4
+Matt Tuiasosopo                 0
+Sam Tuivailala                  0
+Troy Tulowitzki                 24
+Jacob Turner                    0
+Justin Turner                   27
+Trea Turner                     13
+Koji Uehara                     0
+Justin Upton                    31
+Melvin Upton                    16
+Melvin Upton                    4
+Jose Urena                      0
+Julio Urias*                    0
+Juan Uribe                      7
+Chase Utley*                    14
+Pat Valaika                     1
+Luis Valbuena*                  13
+Jose Valdez                     0
+Danny Valencia                  17
+Scott Van Slyke                 1
+Cesar Vargas                    0
+Jason Vargas*                   0
+Kennys Vargas#                  10
+Christian Vazquez               1
+Vince Velasquez                 0
+Will Venable*                   0
+Pat Venditte*                   0
+Pat Venditte*                   0
+Yordano Ventura                 0
+Drew VerHagen                   0
+Justin Verlander                0
+Logan Verrett                   0
+Carlos Villanueva               0
+Jonathan Villar#                19
+Nick Vincent                    0
+Arodys Vizcaino                 0
+Dan Vogelbach*                  0
+Ryan Vogelsong                  0
+Stephen Vogt*                   14
+Edinson Volquez                 0
+Joey Votto*                     29
+Michael Wacha                   0
+Tyler Wagner                    0
+Adam Wainwright                 2
+Kyle Waldrop*                   0
+Neil Walker#                    23
+Taijuan Walker                  0
+Brett Wallace*                  6
+Colin Walsh#                    0
+Zach Walters#                   0
+Chien-Ming Wang                 0
+Adam Warren                     0
+Adam Warren                     0
+Tony Watson*                    0
+Jered Weaver                    0
+Luke Weaver                     0
+Daniel Webb                     0
+Ryan Webb                       0
+Ryan Weber                      0
+Jemile Weeks#                   0
+Rickie Weeks                    9
+J.B. Wendelken                  0
+Joey Wendle*                    1
+Jayson Werth                    21
+Robert Whalen                   0
+Tyler White                     8
+Chase Whitley                   0
+Joe Wieland                     0
+Matt Wieters#                   17
+Tom Wilhelmsen                  0
+Tom Wilhelmsen                  0
+Andy Wilkins*                   1
+Jerome Williams                 0
+Mason Williams*                 0
+Trevor Williams                 0
+Mac Williamson                  6
+Alex Wilson                     0
+Bobby Wilson                    0
+Bobby Wilson                    3
+Bobby Wilson                    4
+Justin Wilson*                  0
+Tyler Wilson                    0
+Alex Wimmers*                   0
+Daniel Winkler                  0
+Matt Wisler                     0
+Chris Withrow                   0
+Nick Wittgren                   0
+Tony Wolters*                   3
+Kolten Wong*                    5
+Alex Wood                       0
+Blake Wood                      0
+Travis Wood                     0
+Vance Worley                    0
+Danny Worth                     0
+Daniel Wright                   0
+Daniel Wright                   0
+David Wright                    7
+Mike Wright                     0
+Steven Wright                   0
+Kirby Yates*                    0
+Christian Yelich*               21
+Gabriel Ynoa                    0
+Michael Ynoa                    0
+Rafael Ynoa#                    0
+Chris Young                     9
+Chris Young                     0
+Eric Young#                     0
+Madison Younginer               0
+Rob Zastryzny                   0
+Brad Ziegler                    0
+Brad Ziegler                    0
+Ryan Zimmerman                  15
+Jordan Zimmermann               0
+Ben Zobrist#                    18
+Mike Zunino                     12
+Tony Zych                       0

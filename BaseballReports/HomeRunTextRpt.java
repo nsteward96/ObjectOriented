@@ -38,8 +38,7 @@ public class HomeRunTextRpt {
     try {
       PrintWriter fileWriter = new PrintWriter(m_reportFile, "UTF-8");
       for (DataPair dataPair : data) {
-        String name = dataPair.getName();
-        name.concat("                                ").substring(0, 32);
+        String name = String.format("%-32s", dataPair.getName());
         int stat = dataPair.getStat();
         fileWriter.println(name + stat);
       }
