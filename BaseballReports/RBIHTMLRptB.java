@@ -2,6 +2,7 @@ import java.util.*;
 import java.io.*;
 
 public class RBIHTMLRptB extends RBITextRpt {
+  
   public RBIHTMLRptB(String dataFile, String reportFile) {
     super(dataFile, reportFile);
   }

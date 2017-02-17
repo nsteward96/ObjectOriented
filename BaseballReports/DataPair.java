@@ -1,3 +1,8 @@
+/*
+   DataPairs hold the name of a baseball player and 
+   their stat, which varies between their homeruns
+   and their RBI.
+*/
 public class DataPair {
   private String m_name;
   private int m_stat;

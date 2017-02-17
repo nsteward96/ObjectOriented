@@ -1,3 +1,13 @@
+/*
+   Nate Steward
+   2-16-17
+   Baseball Reports
+
+   Reads in baseball data from players.txt and gives data in different formats.
+   This code is meant to display how NOT to use Object Oriented design.
+   (Crazy inheritance follows.)
+*/
+
 import java.util.*;
 import java.io.*;
 

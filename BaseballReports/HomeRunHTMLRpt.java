@@ -2,6 +2,7 @@ import java.util.*;
 import java.io.*;
 
 public class HomeRunHTMLRpt extends HomeRunTextRpt {
+  
   public HomeRunHTMLRpt(String dataFile, String reportFile) {
     super(dataFile, reportFile);
   }

@@ -2,6 +2,7 @@ import java.util.*;
 import java.io.*;
 
 public class RBIHTMLRptA extends HomeRunHTMLRpt{
+  
   public RBIHTMLRptA(String dataFile, String reportFile) {
     super(dataFile, reportFile);
   }

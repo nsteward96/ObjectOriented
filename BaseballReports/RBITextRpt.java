@@ -2,6 +2,7 @@ import java.util.*;
 import java.io.*;
 
 public class RBITextRpt extends HomeRunTextRpt {
+  
   public RBITextRpt(String dataFile, String reportFile) {
     super(dataFile, reportFile);
   }
