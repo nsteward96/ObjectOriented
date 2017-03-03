@@ -1,3 +1,5 @@
+// Builds the flowchart.
+// Follows the "Singleton" design pattern.
 public class Builder {
 
   private static Builder m_instance;

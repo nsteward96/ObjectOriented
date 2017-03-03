@@ -1,7 +1,7 @@
 import java.util.*;
 
 public class Decision implements IDecision {
-  
+
   private String m_question;
   private IDecision m_yes;
   private IDecision m_no;
@@ -32,6 +32,9 @@ public class Decision implements IDecision {
     m_noTerminal = terminal;
   }
 
+  // Asks the user a question, then returns a new decision based on the answer.
+  // If the next decision is null, the process ends.
+  // A message, or 'solution', should print at the end of the line.
   public IDecision ask() {
     Scanner keyboard = new Scanner(System.in);
     boolean improperUserInput = true;
