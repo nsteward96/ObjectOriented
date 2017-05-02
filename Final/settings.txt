@@ -1,0 +1,15 @@
+// Settings for the game. First line is the hero; last 2 lines are the 2 enemies he will face.
+// First object should be the player character. There should only be 1 player character.
+// This approach does support more than 2 enemies; feel free to add as many as you are comfortable with.
+// Possible heroes:
+// - Hero (General hero elf, moves in a constant direction until new key is pressed)
+// - PixlMan (Moves a set distance when a movement key is pressed; limited only by how fast you can mash the keys)
+// - Miner (Makes much more passive score, but controls are reversed!)
+// Possible enemies:
+// - Ogre (General ogre enemy, damages hero when touched)
+// - Wizard (Teleporting enemy, damages hero when touched)
+// - TreasureGoblin (Does not hurt the player, gives score while the player is touching it! Stops to count its money occasionally.)
+// - Quarterback (Rushes to opposite sides of the map (the 'field'). Stops to change direction when it reaches the other side.)
+Hero
+Quarterback
+Ogre
